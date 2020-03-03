@@ -4,7 +4,7 @@
   "description": "hola",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d _site",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "lucas bodson",
